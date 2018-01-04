@@ -1,2 +1,2 @@
 # Numerical-methods
-# contains the various types of plots
+# contains the codes for numerical methods assignments
